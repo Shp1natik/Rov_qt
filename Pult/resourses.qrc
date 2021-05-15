@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>comp/pitchPointer.png</file>
+        <file>comp/pitchScale.png</file>
+        <file>comp/rollPointer.png</file>
+        <file>comp/rollScale.png</file>
+        <file>comp/yawPointer.png</file>
+        <file>comp/yawScale.png</file>
+    </qresource>
+</RCC>
